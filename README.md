@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varun0155
 - 👀 I’m interested in Tech and coding
-- 🌱 I’m currently learning Front End Development 
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Full Stack Development
 - 📫 How to reach me varun0155@gmail.com
 
